@@ -8,9 +8,9 @@ Konstantin Ryabokon
 
 <b>Unity Assets & Settings: </b>https://drive.google.com/open?id=1blONMr2VfXRwBGjYtEG5EUf20coK2rnU
 
-This project was made as sarcastic version of Future exposition with low polly 3d models and poorly made "lemonad stands" (It actually took me more then 4 hours to make lemonad stand look the way I wanted :) ) 
+This project was made as sarcastic version of future exposition with low polly 3d models and poorly made "lemonade stands" (it actually took me more then 4 hours to make the lemonade stand look the way I wanted :) ) 
 
-Anyway hope you enjoy it!!
+I hope you enjoy it!!
 
 
 
