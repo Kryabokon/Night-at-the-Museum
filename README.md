@@ -8,7 +8,7 @@ Konstantin Ryabokon
 
 <b>Unity Assets & Settings: </b>https://drive.google.com/open?id=1blONMr2VfXRwBGjYtEG5EUf20coK2rnU
 
-This project was made as sarcastic version of future exposition with low polly 3D models and poorly made "lemonade stands".
+Built a VR Museum using Unity and Google VR SDK for users to explore cutting edge VR technologies. VR experience completely built from scratch using VR locomotion, interactivity, and appropriate scale of objects. 
 
 
 
