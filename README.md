@@ -4,6 +4,8 @@ Konstantin Ryabokon
 
 <b>Project completion date: </b>12/12/17
 
+<b>Project Video: </b>https://youtu.be/RuoM0-6iwaQ
+
 <b>APK build: </b>https://drive.google.com/open?id=1rIQiyN2S540JWkROPbMO4LC6POxokFwz
 
 <b>Unity Assets & Settings: </b>https://drive.google.com/open?id=1blONMr2VfXRwBGjYtEG5EUf20coK2rnU
